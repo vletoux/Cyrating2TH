@@ -1,0 +1,17 @@
+Cyrating = {
+  'proxies':{
+      'http': '',
+      'https': ''
+  },
+    'api':''
+}
+
+TheHive = {
+    'proxies':{
+      'http': '',
+      'https': ''
+    },
+    'url':'http://127.0.0.1:9000',
+    'key':'',
+    'template': ''
+}
